@@ -1,0 +1,16 @@
+{
+  "name": "quciklearnsymbol-v3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "account": "tsx src/0301-account.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.4",
+    "symbol-sdk": "3",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.4"
+  }
+}
